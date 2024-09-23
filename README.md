@@ -1,8 +1,11 @@
+
 MERN Netflix Clone 
 
 DEMO: https://netflix-clone-zee7.onrender.com/
 
 A fully responsive React web UI , which lets a user create their account.
+
+<img width="1437" alt="Screenshot 2024-09-24 at 2 00 33 AM" src="https://github.com/user-attachments/assets/1701e77a-b34b-479e-8585-9232d94572dd">
 
 <img width="1436" alt="Screenshot 2024-09-24 at 1 55 05 AM" src="https://github.com/user-attachments/assets/a19222c8-be8d-4e28-aeb1-6db4dab4ffe8">
 
